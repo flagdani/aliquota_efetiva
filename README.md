@@ -27,7 +27,4 @@ Este projeto foi criado para auxiliar empresas e profissionais a calcular alíqu
   - [Cleave.js](https://github.com/nosir/cleave.js)
   
 - **Outras Ferramentas**:
-  - [Git](https://git-scm.com/)
   - [GitHub](https://github.com/)
-
-  - Desenvolvido por Daniel Alves.
